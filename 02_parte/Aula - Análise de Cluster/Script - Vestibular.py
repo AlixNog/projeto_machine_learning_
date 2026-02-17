@@ -9,14 +9,14 @@
 
 ## Executar na linha de comando do console (sem o #)
 
-# pip install pandas
-# pip install numpy
-# pip install matplotlib
-# pip install seaborn
-# pip install plotly
-# pip install scipy
-# pip install scikit-learn
-# pip install pingouin
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install scipy
+pip install scikit-learn
+pip install pingouin
 
 #%% Importando os pacotes
 
