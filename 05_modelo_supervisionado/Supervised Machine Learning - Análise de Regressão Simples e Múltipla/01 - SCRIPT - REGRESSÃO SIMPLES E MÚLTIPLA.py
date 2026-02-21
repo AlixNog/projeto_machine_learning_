@@ -22,6 +22,8 @@
 # pip install --upgrade statstests
 # pip install pygame
 
+
+
 # In[0.2]: Importação dos pacotes
 
 import pandas as pd # manipulação de dados em formato de dataframe
